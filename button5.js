@@ -68,7 +68,6 @@ function createButtons() {
 createButtons();
 
 /* 
-
 Notes:
 
 1.  If you dont use an IIFE, the for loop completes and i = 6, therefore in the alert, i is always 6.
