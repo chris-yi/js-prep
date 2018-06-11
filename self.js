@@ -29,3 +29,6 @@ In IIFE - self.color: Blue
 2. this = self is a common practice because its purpose is to store a reference to a certain scope that you need to use later on.
 
 */
+
+
+
