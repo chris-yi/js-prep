@@ -42,4 +42,11 @@ myFunc(1, 2, 3)
 
 it will log out 2 2 3 because it thinks we overrode the a with 2
 
+
+Example 3:
+ 
+'use strict';
+ 
+delete Object.prototype;
+
 */
